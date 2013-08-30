@@ -24,3 +24,4 @@ bin/
 lib/
 *.bak
 /.project
+/test
